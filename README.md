@@ -18,7 +18,12 @@ Personalization: All logged-in users can manage their profiles, updating passwor
 ### Styling
 The system's primary style is based on the sleek and user-friendly 'Core UI Admin Dashboard' template.
 
+### Usage
+Follow the login prompts to access the dashboard tailored to your role (Administrator, Station Manager, or Public Viewer).
 
+### Additional Information
+Utilize provided templates for 404 and 500 error messages.
+Bootstrap Modal templates are preferred for any necessary pop-ups, avoiding default express-style messages.
 
 ## Technology Stack
 Backend
